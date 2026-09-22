@@ -1,4 +1,5 @@
 tool: Claude.ai
+AI used for: Resolving confusion and explaining course concept.
 Part: Cross-Correlation:
 
 
